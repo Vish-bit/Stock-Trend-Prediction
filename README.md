@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction using News Sentiment and Moving Averages
+# 📈  Stock Price Prediction using News Sentiment and Moving Averages
 
 This project uses stock price data and real-time news sentiment analysis to predict stock prices. It combines historical price trends with sentiment analysis from news headlines and applies a machine learning model for prediction.
 
