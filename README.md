@@ -16,3 +16,7 @@ This project uses stock price data and real-time news sentiment analysis to pred
   - `requests` – fetch data from News API
 ---
 
+## Preview 
+
+insights.png
+
