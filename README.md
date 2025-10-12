@@ -18,5 +18,4 @@ This project uses stock price data and real-time news sentiment analysis to pred
 
 ## Preview 
 
-insights.png
-
+![](/insights.png)
