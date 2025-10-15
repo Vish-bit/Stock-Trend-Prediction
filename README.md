@@ -3,7 +3,7 @@
 This project uses stock price data and real-time news sentiment analysis to predict stock prices. It combines historical price trends with sentiment analysis from news headlines and applies a machine learning model for prediction.
 
 
-## 🧠 Technologies & Libraries
+## Technologies & Libraries
 
 - **Programming Language**: Python  
 - **Libraries**:
