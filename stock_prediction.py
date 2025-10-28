@@ -7,9 +7,10 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import requests
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
+import os 
 
 # --- Alpha Vantage API ---
-api_key = "67b33021cc2947.49818406"
+api_key = os.getenv("API_KEY")
 ts = TimeSeries(key=api_key, output_format="pandas")
 
 print("Fetching stock data for AAPL...")
